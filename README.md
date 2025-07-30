@@ -27,7 +27,7 @@ Welcome! This repository showcases my expertise in data cleaning, transformation
 ## 📁 Project Structure
 
 - `data professional survey breakdown project.pbix` – Power BI dashboard file
-- `data_professional_survey_breakdown_project` – Example input datasets
+- `data_professional_survey_breakdown_project.csv` – Dataset
 - `README.md` – Project overview
 
 ## 🚀 Why Hire Me?
